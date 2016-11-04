@@ -1,0 +1,2 @@
+# Spawn
+warp to spawn
