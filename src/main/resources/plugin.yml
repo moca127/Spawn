@@ -1,0 +1,11 @@
+name: Spawn
+main: kr.mocha.Spawn
+version: 1.0-SNAPSHOT
+author: mocha
+api: [1.0.0]
+
+commands:
+ spawn:
+  default: ture
+  description: "warp to spawn"
+  aliases: ["넴주","스폰"]
